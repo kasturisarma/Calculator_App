@@ -1,0 +1,30 @@
+
+table{
+  margin-top: 80px;
+  border: 2px solid black;
+}
+#ac,#ce,#eq,.x{
+  width: 50px;
+  height: 35px;
+}
+
+#scrn{
+  padding-right: 30px;
+  padding-bottom: 10px;
+}
+#ac:hover{
+  background-color: black;
+  color: azure;
+}
+#ce:hover{
+  background-color: black;
+  color: azure;
+}
+#eq:hover{
+  background-color: black;
+  color: azure;
+}
+.x:hover{
+  background-color: black;
+  color: azure;
+}
